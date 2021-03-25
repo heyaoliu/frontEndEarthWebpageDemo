@@ -18,7 +18,7 @@ export default function Footer() {
             </div>
             <Link href="/">
               <a className="md:text-3xl ml-5 text-white mb-1">
-                Our Beautiful Earth
+                The Beautiful Earth
               </a>
             </Link>
           </div>
