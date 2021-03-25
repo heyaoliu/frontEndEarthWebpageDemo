@@ -1,12 +1,12 @@
 import Header from "./header";
 import Footer from "./footer";
-import { useRouter } from 'next/router'
+import {useRouter} from 'next/router'
 
 export default function Layout(props) {
   const router = useRouter()
   let background = ''
-  if(router.route){
-    if (String(router.route.pathname).indexOf('account') !== -1) {
+  if (router.route) {
+    if (String(router.route).indexOf('account') !== -1) {
       background = ' bg-gray-100'
     }
   }

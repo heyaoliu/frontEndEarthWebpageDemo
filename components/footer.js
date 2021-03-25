@@ -35,8 +35,7 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <div
-            className="text-white flex text-left text-base flex-wrap justify-between lg:container px-4 pb-2 mx-auto md:flex-no-wrap md:px-4">
+        <div className="text-white flex text-left text-base flex-wrap justify-between lg:container px-4 pb-2 mx-auto md:flex-no-wrap md:px-4">
           <div className="flex justify-between w-1/2">
             <div className="h-auto px-3 sm:mt-0">
               <div className="mb-2 font-bold">Category</div>
