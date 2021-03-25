@@ -1,6 +1,7 @@
 # react-demo
 
 React.js + Next.js + Tailwind.css
+To run the code on localhost, first npm install, then npm run dev
 
 home page:
 ![image](https://user-images.githubusercontent.com/57214111/112427761-5a9d4880-8cf7-11eb-80b4-5627e07a5908.png)
